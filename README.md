@@ -26,7 +26,7 @@
 
 |                  Selecionar foto da galeria                  |                         Status final                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://i.ibb.co/YNhRSx4/Screenshot-1617647272.png" style="zoom:25%"> | <img src="https://i.ibb.co/Yhfx10r/Screenshot-1617647277.png" style="zoom:55%"> |
+| <img src="https://i.ibb.co/YNhRSx4/Screenshot-1617647272.png" style="zoom:25%"> | <img src="https://i.ibb.co/Yhfx10r/Screenshot-1617647277.png" style="zoom:25%"> |
 
 
 
