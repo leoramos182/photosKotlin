@@ -2,9 +2,17 @@
 
 ## Permissão de acesso a pasta de imagens
 
-<img src="C:\Users\USUARIO\Desktop\Android Studio Screenshots\Screenshot_1617647242.png" style="zoom:25%;" />
+<tr>
 
-<img src="C:\Users\USUARIO\Desktop\Android Studio Screenshots\Screenshot_1617647523.png" style="zoom:25%;" />
+​	<td>01</td>
+
+​	<td>02</td>
+
+​	<td>03</td>
+
+</tr>
+
+
 
 
 
