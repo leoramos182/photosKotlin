@@ -2,15 +2,11 @@
 
 ## Permissão de acesso a pasta de imagens
 
-<tr>
+| Primeira Coluna                                         | Segunda Coluna | Terceira Coluna |
+| ------------------------------------------------------- | -------------- | --------------- |
+| ![https://i.ibb.co/PZt9Hcn/Screenshot-1617647242.png]() |                |                 |
 
-​	<td>01</td>
 
-​	<td>02</td>
-
-​	<td>03</td>
-
-</tr>
 
 
 
